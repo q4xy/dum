@@ -1,0 +1,6 @@
+{
+  "name": "SlickDrift",
+  "description": "Visual ocean oil spill drift and weathering calculator based on current and wind vectors, Mackay spreading dynamics, and trajectory simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
